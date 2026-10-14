@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Computer Engineering Student | Data Engineering • AI • Software Development 
 <!--
 **icalliope/icalliope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
